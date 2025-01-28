@@ -1,0 +1,1 @@
+https://cookie-upgrade-api.vercel.app/api/upgrades

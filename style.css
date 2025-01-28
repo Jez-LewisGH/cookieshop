@@ -1,0 +1,33 @@
+/* body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100vw;
+  background-image: url(./cookie-monster.png);
+} */
+
+img {
+  /* display: block; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  text-align: center;
+  color: brown;
+}
+
+footer {
+  color: rgb(76, 0, 255);
+}
+
+/* .container {
+  display: grid;
+  position: absolute;
+}
+
+.autoClick {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+} */
